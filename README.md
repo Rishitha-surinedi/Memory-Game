@@ -2,6 +2,10 @@
 
 A fun and interactive browser-based memory matching game built using HTML, CSS, and JavaScript.
 
+## Live Demo
+
+🔗 https://rishitha-surinedi.github.io/Memory-Game/
+
 ## Features
 
 * Emoji card matching gameplay
