@@ -19,7 +19,6 @@ A fun and interactive browser-based memory matching game built using HTML, CSS, 
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
 
 ## How to Play
 
